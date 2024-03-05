@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Blog：99999.fun
+
+
 <!--
 **zhizheng123/zhizheng123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
